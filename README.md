@@ -8,7 +8,7 @@
 
 Стек на выбор: 
 1. Python3, [Pytest](https://github.com/pytest-dev/pytest) и [requests](https://github.com/psf/requests).
-2. Java или Kotlin,  [Junit](https://junit.org/junit5/).
+2. Java или Kotlin,  [Junit5](https://junit.org/junit5/).
 
 Требования к выполненному проекту: 
 1. Проект должен быть размещён на платформе [GitHub](https://github.com/) и доступен для просмотра.
